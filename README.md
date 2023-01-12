@@ -35,7 +35,7 @@
 
 Hello Microverse
 
-**[your_project__name]** is a...
+**[Hello Microverse]** is a basic web page with h1 title
 
 ## 🛠 Built With <a name="built-with"></a>
 
